@@ -1,0 +1,7 @@
+rocketMq 安装部署：https://blog.csdn.net/weixin_42576761/article/details/82774332
+                   https://www.cnblogs.com/linjiqin/p/9553663.html
+
+业务demo： https://www.jianshu.com/p/5260a2739d80
+           https://www.cnblogs.com/wadmwz/p/10689972.html
+详细介绍：https://www.jianshu.com/p/453c6e7ff81c
+冲突解决：https://www.cnblogs.com/tanglc/p/9381280.html

@@ -1,0 +1,4 @@
+rocketmq:
+  # Éú²úÕßÅäÖÃ
+  producer:
+    default: false
